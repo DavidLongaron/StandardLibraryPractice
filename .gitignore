@@ -1,32 +1,62 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
+# Visual Studio
+.vscode/
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.ncb
+*.user
+*.pdb
+*.opendb
+*.tlog
 *.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
 *.exe
+*.log
+*.ipch
+*.aps
+*.ilk
+*.idb
+*.class
+*.sdf
+*.sqlite
+*.pfx
+*.publishsettings
+*.resharper
+*.dbmdl
+*.log
+*.sln.docstates
+
+# Build results
+Debug/
+Release/
+x64/
+build/
+*.dll
+*.lib
+*.o
+
+# Other
+*.class
+*.pyc
+*.pyo
+*.sln
 *.out
-*.app
+*.tmp
+*.cache
+
+
+# Ignorar archivos y carpetas específicos de Visual Studio
+.vs/
+*.suo
+*.db
+*.ipch
+*.obj
+*.pdb
+*.exe
+*.log
+*.ilk
+*.idb
+*.tlog
+*.user
+*.o
