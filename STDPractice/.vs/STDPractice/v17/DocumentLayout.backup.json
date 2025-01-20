@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\David\\source\\repos\\STDPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79810E9A-B69F-4F5C-A54A-CD4D89EFFAEC}|STDPractice.vcxproj|C:\\Users\\David\\source\\repos\\STDPractice\\TestVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{79810E9A-B69F-4F5C-A54A-CD4D89EFFAEC}|STDPractice.vcxproj|solutionrelative:TestVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{79810E9A-B69F-4F5C-A54A-CD4D89EFFAEC}|STDPractice.vcxproj|C:\\Users\\David\\source\\repos\\STDPractice\\STDPractice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79810E9A-B69F-4F5C-A54A-CD4D89EFFAEC}|STDPractice.vcxproj|solutionrelative:STDPractice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79810E9A-B69F-4F5C-A54A-CD4D89EFFAEC}|STDPractice.vcxproj|C:\\Users\\David\\source\\repos\\STDPractice\\TestVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{79810E9A-B69F-4F5C-A54A-CD4D89EFFAEC}|STDPractice.vcxproj|solutionrelative:TestVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79810E9A-B69F-4F5C-A54A-CD4D89EFFAEC}|STDPractice.vcxproj|C:\\Users\\David\\source\\repos\\STDPractice\\STDPractice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{79810E9A-B69F-4F5C-A54A-CD4D89EFFAEC}|STDPractice.vcxproj|solutionrelative:STDPractice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{79810E9A-B69F-4F5C-A54A-CD4D89EFFAEC}|STDPractice.vcxproj|C:\\Users\\David\\source\\repos\\STDPractice\\TestVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79810E9A-B69F-4F5C-A54A-CD4D89EFFAEC}|STDPractice.vcxproj|solutionrelative:TestVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TestVector.cpp",
               "DocumentMoniker": "C:\\Users\\David\\source\\repos\\STDPractice\\TestVector.cpp",
               "RelativeDocumentMoniker": "TestVector.cpp",
               "ToolTip": "C:\\Users\\David\\source\\repos\\STDPractice\\TestVector.cpp",
               "RelativeToolTip": "TestVector.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-17T00:16:51.955Z",
               "EditorCaption": ""
@@ -45,20 +45,20 @@
               "RelativeDocumentMoniker": "TestVector.h",
               "ToolTip": "C:\\Users\\David\\source\\repos\\STDPractice\\TestVector.h",
               "RelativeToolTip": "TestVector.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-17T00:16:46.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "STDPractice.cpp",
               "DocumentMoniker": "C:\\Users\\David\\source\\repos\\STDPractice\\STDPractice.cpp",
               "RelativeDocumentMoniker": "STDPractice.cpp",
               "ToolTip": "C:\\Users\\David\\source\\repos\\STDPractice\\STDPractice.cpp",
               "RelativeToolTip": "STDPractice.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-16T23:07:59.596Z",
               "EditorCaption": ""
