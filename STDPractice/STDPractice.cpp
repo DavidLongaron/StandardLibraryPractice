@@ -14,8 +14,8 @@ int main()
     test2.pushBack(val2);
     test2.pushBack(val3);
 
-    std::cout << test2.at(0) << std::endl; // Debería imprimir 10
-    std::cout << test2.at(1) << std::endl; // Debería imprimir 20
-    std::cout << test2.at(2) << std::endl; // Debería imprimir 30
+    std::cout << test2.at(0)<<" Debería imprimir 10" << std::endl; // Debería imprimir 10
+    std::cout << test2.at(1)<<" Debería imprimir 20" << std::endl; // Debería imprimir 20
+    std::cout << test2.at(2)<<" Debería imprimir 30" << std::endl; // Debería imprimir 30
 
 }
